@@ -3,5 +3,7 @@ name = "rig"
 version = "0.1.0"
 authors = ["fn-a <mr.fna.co@gmail.com>"]
 edition = "2018"
+description = "rig project"
+license = "MIT"
 
 [dependencies]
